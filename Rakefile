@@ -9,3 +9,53 @@ task :console do
   # Open a Pry session
   Pry.start
 end
+
+
+# def change
+#   create_table :costumes do |t|
+# t.string  :name 
+# t.float :price 
+# t.string :size 
+# t.string :image_url 
+# end
+# end
+# end
+
+
+# def change
+#   create_table :haunted_houses do |t|
+#     t.string :name
+#     t.string :location
+  
+#     t.string :theme
+#     t.float :price 
+#     t.boolean :family_friendly 
+#     t.timestamps :opening_date
+#     t.timestamps :closing_date
+#     t.text :description 
+    
+
+    
+
+# end
+# end
+# end
+
+# def change
+#   create_table :costume_stores do |t|
+#     t.string :name
+#     t.string :location
+  
+#     t.integer :costume_inventory 
+#     t.integer :num_of_employees 
+#     t.boolean :is_in_business 
+#     t.timestamps :opening_time 
+#     t.timestamps :closing_time 
+    
+
+
+
+
+#   end
+# end
+# end
